@@ -1,1 +1,6 @@
 # Tic-Tac-Toe-Game
+Submitted by: 
+1. AKASH MAHAWAR
+REG. NO. :- PCE23CS012
+2. HEERAL JAIN
+REG. NO. :- PCE23CR027 
